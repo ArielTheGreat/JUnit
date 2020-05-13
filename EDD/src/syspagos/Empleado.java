@@ -5,7 +5,6 @@ import excepciones.MesesTrabajoException;
 import excepciones.NombreEmpleadoException;
 import excepciones.NumeroEmpleadoException;
 
-import javax.*;
 import java.util.regex.Pattern;
 
 public class Empleado {
